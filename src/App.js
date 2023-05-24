@@ -5,6 +5,7 @@ import paysage2 from "./images/paysage_2.png";
 import paysage3 from "./images/paysage_3.png";
 import paysage4 from "./images/paysage_4.png";
 import paysage5 from "./images/paysage_5.png";
+import bg_voyage from "./images/bg_voyage.png";
 
 const images = [
 
@@ -21,7 +22,8 @@ const images = [
   paysage2,
   paysage3,
   paysage4,
-  paysage5
+  paysage5,
+  bg_voyage
 
 ];
 
