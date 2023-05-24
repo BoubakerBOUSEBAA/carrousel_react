@@ -16,4 +16,4 @@ Enfin, si vous souhaitez faire passer votre carrousel au niveau supérieur, essa
 
 ## Screenshots
 
-![App Screenshot](carrousel_react.gif)
+![App Screenshot](carrousel_react1.gif)
