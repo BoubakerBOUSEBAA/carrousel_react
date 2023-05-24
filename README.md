@@ -13,3 +13,7 @@ Enfin, si vous souhaitez faire passer votre carrousel au niveau supérieur, essa
 - useState (stockage et mise à jour de l'état)
 - Conditionnels (ternaires)
 - Listes, clés et .map()
+
+## Screenshots
+
+![App Screenshot](carrousel_react.gif)
